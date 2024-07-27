@@ -1,0 +1,12 @@
+debug/chatwindow.o
+debug/main.o
+debug/login.o
+debug/mainwindow.o
+debug/profiledialog.o
+debug/signup.o
+debug/qrc_images.o
+debug/moc_chatwindow.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_profiledialog.o
+debug/moc_signup.o

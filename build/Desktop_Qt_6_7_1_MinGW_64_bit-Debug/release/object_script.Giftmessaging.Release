@@ -1,0 +1,12 @@
+release/chatwindow.o
+release/main.o
+release/login.o
+release/mainwindow.o
+release/profiledialog.o
+release/signup.o
+release/qrc_images.o
+release/moc_chatwindow.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_profiledialog.o
+release/moc_signup.o
